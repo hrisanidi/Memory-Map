@@ -4,7 +4,7 @@
 *This file contains a brief description of the application and its implementation.*
 
 # Idea
-**Memory app** is a simple yet powerful tool for keeping your favourite memories in one place.
+**Memory Map** is a simple yet powerful tool for keeping your favourite memories in one place.
 
 The map allows you to put small annotations to remind you of dear moments, places and people alike.
 
